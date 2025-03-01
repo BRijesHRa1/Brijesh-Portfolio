@@ -19,7 +19,7 @@ const ContactMe = () => {
             <div className="avatar w-full pt-5 flex flex-col items-center justify-center gap-1">
               <div className="relative flex items-center justify-center w-full z-40">
                 <img
-                  src="/public/images/Brijesh_picture.png"
+                  src="/images/Brijesh_picture.png"
                   alt="Brijesh"
                   className="size-36 z-40 border-4 border-white rounded-full object-cover group-hover:border-8 group-hover:transition-all group-hover:duration-300 transition-all duration-300"
                 />
