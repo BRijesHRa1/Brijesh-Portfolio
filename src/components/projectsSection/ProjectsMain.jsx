@@ -8,7 +8,7 @@ const projects = [
     name: "Music Genre Classification using GTZAN",
     Des: "Built a music genre classification system using the GTZAN dataset, employing ML and DL models like KNN, SVM, Random Forests, and CNNs. Achieved the highest accuracy with CNNs by analyzing Mel-spectrograms. The project focused on model comparison, feature analysis, and baseline evaluation, with applications in personalized recommendations and commercial music selection.",
     align: "right",
-    image: "../../public/images/website-img-1.png",
+    image: "/public/images/website-img-1.png",
     link: "https://github.com/BRijesHRa1/Music-Genre-Classification-using-GTZAN",
   },
   

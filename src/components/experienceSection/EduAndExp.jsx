@@ -18,7 +18,7 @@ const EduAndExp = () => {
             Master of computer Science -{" "}
             <span>
               <img
-                src="../../public/images/uab_logo_2.png"
+                src="/images/uab_logo_2.png"
                 alt="Taboola Logo"
                 className="w-15 h-6 ml-2 inline-block"
               />
@@ -115,7 +115,7 @@ const EduAndExp = () => {
             Software Developer -{" "}
             <span>
               <img
-                src="../../public/images/anshtech.png"
+                src="/images/anshtech.png"
                 alt="Taboola Logo"
                 className="w-18 h-8 ml-2 inline-block"
               />
@@ -185,7 +185,7 @@ const EduAndExp = () => {
           BE in Computer Science & Engineering  -{" "}
             <span>
               <img
-                src="../../public/images/cu_logo.png"
+                src="/images/cu_logo.png"
                 alt="Taboola Logo"
                 className="w-20 h-6 ml-2 inline-block"
               />
